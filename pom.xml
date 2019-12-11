@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-           <url>http://nexusserver.com:8081/repository/test_snapshot/</url>
+           <url>http://nexusserver.com:8081/repository/test_snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
